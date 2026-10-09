@@ -2,7 +2,7 @@
 title: "A Cautious AI Workflow for Planning Hyperlocal Real Estate Pages"
 description: "A practical workflow for freelance real estate marketers: use AI to brainstorm neighborhood-page topics, label evidence honestly, and verify local facts before publishing."
 pubDate: 2026-10-09
-draft: true
+draft: false
 evidence: method
 sources: []
 ---
