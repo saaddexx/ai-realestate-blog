@@ -1,0 +1,44 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'Practical, evidence-labeled AI workflows for freelance real estate marketers.' } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const fullTitle = title === 'Home' ? 'AI for Real Estate Marketers' : `${title} | AI for Real Estate Marketers`;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap">
+        <a class="brand" href={`${base}/`}>AI for Real Estate Marketers</a>
+        <nav>
+          <a href={`${base}/blog/`}>Blog</a>
+          <a href={`${base}/about/`}>About</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+    <footer class="site">
+      <div class="wrap">Written for freelance marketers who work with U.S. residential real estate brokerages.</div>
+    </footer>
+  </body>
+</html>
