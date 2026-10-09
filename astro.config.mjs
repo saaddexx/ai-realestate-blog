@@ -5,6 +5,6 @@ import { defineConfig } from 'astro/config';
 //   Project site (any other repo name):          site = 'https://USERNAME.github.io', base = '/REPO-NAME'
 // Cloudflare Pages: site = 'https://YOUR-PROJECT.pages.dev', base = '/'
 export default defineConfig({
-  site: 'https://USERNAME.github.io',
-  base: '/',
+site: 'https://saaddexx.github.io',
+base: '/ai-realestate-blog',
 });
