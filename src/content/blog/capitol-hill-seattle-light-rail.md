@@ -1,12 +1,11 @@
 ---
-title: "Capitol Hill Seattle Light Rail: Verified Facts"
+title: "Capitol Hill Seattle Light Rail: Verified Opening Date and Current Transit Connections"
 description: "Verify Capitol Hill Seattle light rail facts, including the 2016 opening date, current station lines, nearby buses, and streetcar connections."
 pubDate: 2026-10-11
 draft: false
 evidence: method
 sources: []
 ---
-# Capitol Hill Seattle Light Rail: Verified Opening Date and Current Transit Connections ---
 For freelance real estate marketers and solo agents, transit is one of the easiest neighborhood features to mention and one of the easiest to get wrong. If you write about Capitol Hill, the goal is not to sound promotional. It is to be precise. A clean, source-backed summary of **Capitol Hill Seattle light rail** helps you describe the neighborhood confidently without drifting into outdated route information or unsupported claims.
 
 Here is the fact-checked version: **Capitol Hill Station opened on March 19, 2016, as part of Sound Transit’s University Link extension** according to [Sound Transit’s University Link announcement](https://www.soundtransit.org/get-to-know-us/news-events/news-releases/university-link-light-rail-extension-opens-march-19). Today, **Sound Transit lists Capitol Hill Station with current 1 Line and 2 Line service** on the official [Sound Transit’s Capitol Hill Station page](https://www.soundtransit.org/ride-with-us/stops-stations/capitol-hill-station). That same page also shows nearby bus stops and the nearby **First Hill Streetcar** stop. Separately, [King County Metro’s rail page](https://kingcounty.gov/en/dept/metro/travel-options/rail) confirms that Metro operates the Seattle Streetcar and that the First Hill line connects to bus routes and Link light rail.
