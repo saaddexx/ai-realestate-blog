@@ -1,4 +1,11 @@
---- title: "Capitol Hill Seattle Light Rail: Verified Facts" description: "Verify Capitol Hill Seattle light rail facts, including the 2016 opening date, current station lines, nearby buses, and streetcar connections." pubDate: 2026-10-11 draft: false evidence: method sources: [] ---  # Capitol Hill Seattle Light Rail: Verified Opening Date and Current Transit Connections
+---
+title: "Capitol Hill Seattle Light Rail: Verified Facts"
+description: "Verify Capitol Hill Seattle light rail facts, including the 2016 opening date, current station lines, nearby buses, and streetcar connections."
+pubDate: 2026-10-11
+draft: false
+evidence: method
+sources: []
+---  # Capitol Hill Seattle Light Rail: Verified Opening Date and Current Transit Connections
 
 For freelance real estate marketers and solo agents, transit is one of the easiest neighborhood features to mention and one of the easiest to get wrong. If you write about Capitol Hill, the goal is not to sound promotional. It is to be precise. A clean, source-backed summary of **Capitol Hill Seattle light rail** helps you describe the neighborhood confidently without drifting into outdated route information or unsupported claims.
 
