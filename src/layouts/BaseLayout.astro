@@ -18,6 +18,27 @@ const fullTitle = title === 'Home' ? 'AI for Real Estate Marketers' : `${title} 
   function gtag(){window.dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-KERZQF79ZZ');
+</script> <script is:inline>
+  document.addEventListener('click', (event) => {
+    if (!(event.target instanceof Element)) return;
+
+    const link = event.target.closest('a');
+    if (!link) return;
+
+    const url = new URL(link.href, window.location.href);
+    const articlePath = '/ai-realestate-blog/blog/';
+
+    if (
+      url.origin !== window.location.origin ||
+      !url.pathname.startsWith(articlePath) ||
+      url.pathname === window.location.pathname
+    ) return;
+
+    window.gtag?.('event', 'internal_article_click', {
+      destination_url: url.href,
+      link_text: (link.textContent || '').trim()
+    });
+  });
 </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
