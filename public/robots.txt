@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://saaddexx.github.io/ai-realestate-blog/sitemap.xml
