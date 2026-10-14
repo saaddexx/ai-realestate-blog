@@ -1,6 +1,6 @@
 --- 
 title: "AI Social Media Workflow for Real Estate Agents" description: "Learn a simple AI social media workflow for real estate agents to turn one listing into posts, email, and organized human follow-up." pubDate: 2026-10-14 draft: false evidence: analysis sources: [] ---  # A Beginner’s Guide to an AI Social Media Workflow for Real Estate Agents
-
+--- 
 If you are a U.S.-based solo agent, independent broker, or small real estate team without a marketing department, social media often becomes a stop-and-start task. You know you need consistent visibility, but creating listing posts, emails, and follow-up messages can eat up hours.
 
 That is where an **AI social media workflow for real estate agents** can help. The goal is not to hand your marketing over to AI. The goal is to build one repeatable process that helps you turn a listing into social content, repurpose it across channels, and organize fast, human follow-up.
